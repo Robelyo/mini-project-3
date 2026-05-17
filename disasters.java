@@ -10,7 +10,7 @@ void ctcondition(){
         System.err.println("THERE IS A "+disaster);
     }
     else{
-        System.err.println("IT IS SAFE");
+        System.err.println("IT IS SAFE ");
     }
 }
 }
